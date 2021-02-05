@@ -1,0 +1,21 @@
+{
+  "name": "badgeroles",
+  "version": "0.0.1",
+  "description": "Gives users roles according to their badges",
+  "main": "pythonic.js",
+  "scripts": {
+    "start": "node pythonic.js"
+  },
+  "dependencies": {
+  "discord.js": "^12.5.1"
+
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
