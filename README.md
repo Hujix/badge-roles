@@ -8,7 +8,7 @@ Lang: NodeJS 14.x.x
 
 
 Join my Discord server for help and more;
-Server: discord.gg/JavaScript
+Server: discord.gg/JavaScript (https://discord.gg/vC9y8pghe3)
 
 
 have fun!
